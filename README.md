@@ -6,12 +6,17 @@ Learning Programming & Networking💻
 German Teacher 🇩🇪
 <h2 style="color:#2563eb;">💻 Skills</h2>
 
-MS Office (Word, Excel, PowerPoint), Windows Operating Systems, Basic Networking (WLAN, Router, TCP/IP), Software Installation & Configuration, First-Level Support & Troubleshooting, Basic Git & GitHub
+* MS Office (Word, Excel, PowerPoint)
+* Windows Operating Systems
+* Basic Networking (WLAN, Router, TCP/IP)
+* Software Installation & Configuration
+* First-Level Support & Troubleshooting
+* Basic Git & GitHub
 
 <h2 style="color:#2563eb;">🎯 Goals</h2>
 
-Improve programming skills
-Build practical projects
+* Improve programming skills
+* Build practical projects
 
 <h2 style="color:#2563eb;">📫 Contact</h2>
 
