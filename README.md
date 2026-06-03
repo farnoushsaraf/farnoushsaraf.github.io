@@ -4,7 +4,7 @@ Hi, I'm Farnoush 👋
 IT Graduate🎓
 Learning Programming & Networking💻
 German Teacher 🇩🇪
-
+<h2 style="color:#2563eb;">💻 Skills</h2>
 ## 🛠️ Skills:
 
 MS Office (Word, Excel, PowerPoint), Windows Operating Systems, Basic Networking (WLAN, Router, TCP/IP), Software Installation & Configuration, First-Level Support & Troubleshooting, Basic Git & GitHub
