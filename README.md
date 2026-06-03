@@ -1,9 +1,13 @@
 <img src="mypic.jpg" width="100">
 
-Hi, I'm Farnoush 👋
-IT Graduate🎓
-Learning Programming & Networking💻
-German Teacher 🇩🇪
+# Hi, I'm Farnoush 👋<br>
+🎓 IT Graduate<br>
+
+💻 Aspiring IT Specialist for System Integration<br>
+
+🌐 Learning Programming & Networking<br>
+
+🇩🇪 German Teacher<br>
 <h2 style="color:#2563eb;">💻 Skills</h2>
 
 * MS Office (Word, Excel, PowerPoint)
