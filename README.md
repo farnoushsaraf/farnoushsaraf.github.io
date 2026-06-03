@@ -5,16 +5,15 @@ IT Graduate🎓
 Learning Programming & Networking💻
 German Teacher 🇩🇪
 <h2 style="color:#2563eb;">💻 Skills</h2>
-## 🛠️ Skills:
 
 MS Office (Word, Excel, PowerPoint), Windows Operating Systems, Basic Networking (WLAN, Router, TCP/IP), Software Installation & Configuration, First-Level Support & Troubleshooting, Basic Git & GitHub
 
-## 🎯 Career Goals:
+<h2 style="color:#16a34a;">🎯 Goals</h2>
 
 Improve programming skills
 Build practical projects
 
-## 📫 Contact:
+<h2 style="color:#16a34a;">📫 Contact</h2>
 
 - 📧 Email: far.sarraf@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/farnoushsaraf
