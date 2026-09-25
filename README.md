@@ -17,6 +17,23 @@
 * First-Level Support & Troubleshooting
 * Basic Git & GitHub
 
+  ## 💻 Projects
+
+### 🎯 Python Guessing Game
+
+A simple Python game where the player tries to guess a randomly generated number.
+
+**Technology:** Python
+[View project on GitHub](https://github.com/farnoushsaraf/python-guessing-game)
+
+### 🤖 Computer Guessing Game
+
+A Python game where the computer tries to guess the number chosen by the player.
+
+**Technology:** Python
+[View project on GitHub](https://github.com/farnoushsaraf/computer-guessing-game)
+
+
 <h2 style="color:#2563eb;">🎯 Goals</h2>
 
 * Improve programming skills
