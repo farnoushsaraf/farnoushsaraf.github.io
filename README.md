@@ -8,7 +8,7 @@
 🌐 Learning Programming & Networking<br>
 
 🇩🇪 German Teacher<br>
-<h2 style="color:#2563eb;">💻 Skills</h2>
+<h2>💻 Skills</h2>
 
 * MS Office (Word, Excel, PowerPoint)
 * Windows Operating Systems
