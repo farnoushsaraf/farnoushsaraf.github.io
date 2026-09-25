@@ -17,7 +17,7 @@
 * First-Level Support & Troubleshooting
 * Basic Git & GitHub
 
-  <h2 style="color:#2563eb;"> 💻 Projects</h2>
+  <h2> 💻 Projects</h2>
 
 ### 🎯 Python Guessing Game
 
@@ -34,12 +34,12 @@ A Python game where the computer tries to guess the number chosen by the player.
 [View project on GitHub](https://github.com/farnoushsaraf/computer-guessing-game)
 
 
-<h2 style="color:#2563eb;">🎯 Goals</h2>
+<h2>🎯 Goals</h2>
 
 * Improve programming skills
 * Build practical projects
 
-<h2 style="color:#2563eb;">📫 Contact</h2>
+<h2>📫 Contact</h2>
 
 - 📧 Email: far.sarraf@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/farnoushsaraf
