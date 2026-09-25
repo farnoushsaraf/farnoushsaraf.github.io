@@ -17,7 +17,7 @@
 * First-Level Support & Troubleshooting
 * Basic Git & GitHub
 
-  ##<h2 style="color:#2563eb;"> 💻 Projects</h2>
+  <h2 style="color:#2563eb;"> 💻 Projects</h2>
 
 ### 🎯 Python Guessing Game
 
